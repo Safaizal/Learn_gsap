@@ -36,3 +36,10 @@ body{
     background-color: red;
     width: 0%;
 }
+
+.big_square{
+    width: 100px;
+    height: 100px;
+    background-color: honeydew;
+    margin: 20px;
+}
